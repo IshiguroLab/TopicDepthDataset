@@ -44,4 +44,4 @@ client.fine_tuning.jobs.create(
 ```
 
 ## Acknowldegment
-本研究はJSPS科研費 JP20H00101, JP19H05691, JP23KJ1462, Society 5.0 実現化研究拠点支援事業の助成を受けたものです．
+本研究はJSPS科研費 JP20H00101, JP19H05691, JP23KJ1462, Society 5.0 実現化研究拠点支援事業(グラント番号: JPMXP0518071489)の助成を受けたものです．
