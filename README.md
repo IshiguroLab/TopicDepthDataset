@@ -1,6 +1,7 @@
 ## Topic Depth Dataset
+[日本語 README](https://github.com/IshiguroLab/TopicDepthDataset/blob/c45b3cf545c54788ff495f5efb1898b1d10f6f4f/README_JP.md)
+
 The Topic Depth Dataset is a collection of 1,600 topics (questions) with labeled depth information, presented in Japanese.
-Note that, this dataset is 
 
 Reference：Papre (English), [Paper (Japanese)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B11-5.pdf)，[Data](https://github.com/IshiguroLab/TopicDepthDataset/tree/main/data)
 
