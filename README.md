@@ -1,7 +1,7 @@
 ## 話題の深さデータセット
 話題の深さデータセット（Topic Depth Dataset）は，1,600話題（質問文）について，その深さをラベル付けしたデータセットです．
 
-参考：論文，[データ](https://github.com/IshiguroLab/TopicDepthDataset/tree/main/data)
+参考：[論文](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B11-5.pdf)，[データ](https://github.com/IshiguroLab/TopicDepthDataset/tree/main/data)
 
 ## Fine-tuning
 train.jsonlとtest.jsonlをダウンロードして，以下のコードを実行．
