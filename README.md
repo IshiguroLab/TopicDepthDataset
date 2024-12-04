@@ -35,5 +35,23 @@ client.fine_tuning.jobs.create(
 ```
 Note: During my trial, it cost approximately 500 yen per epoch, resulting in about 1,500 yen for 3 epochs of training.
 
+## Citation
+Seiya Mitsuno, Midori Ban, Hiroshi Ishiguro, and Yuichiro Yoshikawa. 2024. “Deepening Conversations over Time: A Chatbot with a Topic Depth Estimation Model for Gradually Engaging in Deeper Chats.” In 2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN), 1354–61. IEEE.
+
+```
+@INPROCEEDINGS{Mitsuno2024-ev,
+  title     = "Deepening conversations over time: A chatbot with a topic depth
+               estimation model for gradually engaging in deeper chats",
+  author    = "Mitsuno, Seiya and Ban, Midori and Ishiguro, Hiroshi and
+               Yoshikawa, Yuichiro",
+  booktitle = "2024 33rd IEEE International Conference on Robot and Human
+               Interactive Communication (ROMAN)",
+  publisher = "IEEE",
+  pages     = "1354--1361",
+  month     =  aug,
+  year      =  2024
+}
+```
+
 ## Acknowldegment
 This work was supported by JSPS KAKENHI under Grant JP20H00101, JP19H05691, JP23KJ1462, and Innovation Platform for Society 5.0 (Ministry of Education, Culture, Sports, Science and Technology) under Grant JPMXP0518071489.
