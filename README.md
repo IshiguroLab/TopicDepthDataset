@@ -3,7 +3,7 @@
 
 The Topic Depth Dataset is a collection of 1,600 topics (questions) with labeled depth information, presented in Japanese.
 
-Reference：Papre (English), [Paper (Japanese)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B11-5.pdf)，[Data](https://github.com/IshiguroLab/TopicDepthDataset/tree/main/data)
+Reference：[Paper (English)](https://ieeexplore.ieee.org/abstract/document/10731430), [Paper (Japanese)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B11-5.pdf)，[Data](https://github.com/IshiguroLab/TopicDepthDataset/tree/main/data)
 
 ## Fine-tuning
 Download `train.jsonl` and `test.jsonl` and execute the following code:
